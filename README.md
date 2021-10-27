@@ -12,7 +12,7 @@ Recursos:
 - ROUTE TABLE ASSOCIATIONS
 - ROUTE 53
 - RDS
-- PROVIDES
+- PROVIDES(versão não compatível com autenticação aws sso)
 - EKS (NODES, CLUSTER, IAM ROLES)
 - NAT GATEWAY
 - INTERNET GATEWAY
